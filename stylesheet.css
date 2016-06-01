@@ -12,7 +12,10 @@ h3{
 p{
    border:5px dotted green;
    border-radius:10px;
-   font-family:Monospace;
+   font-family:"Courier New";
+   font-weight: bold;
+   font-style:italic;
+   width:80%;
 }
 
 body{
