@@ -8,7 +8,10 @@ h2{
    }
 h3{
    color:#4E3E5E;
-   border:50px dotted green;
+<p>
+   border:10px dotted green;
+   border-radius:10px;
+</p>
 }
 
 body{
